@@ -1,0 +1,18 @@
+Intervals(s) = 10
+Min. number of hype msgs for a time stamp = 4
+Show graph = true
+Words to look for (each word on a new line):
+lol
+clip
+lmao
+lmfao
+pog
+wtf
+nice
+omg
+shee
+holy
+haha
+rofl
+stimpultrarage
+vac
